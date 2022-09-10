@@ -19,9 +19,6 @@
           <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-        <li class="nav-item">
           <a class="nav-link" href="#">
 			<i class="fa-solid fa-cart-shopping"></i>
 			&nbsp; <span class="bg-primary text-white px-2 py-1" style="border-radius: 50%;" id="cart_count"></span>
